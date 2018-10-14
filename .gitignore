@@ -3,3 +3,4 @@
 /cmake-build-debug/
 core
 /*.txt
+*.payload
